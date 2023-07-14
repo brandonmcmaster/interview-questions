@@ -1,0 +1,15 @@
+C:\Users\Student\Desktop\InteriewQuestions\InteriewQuestions\obj\Debug\net7.0\InteriewQuestions.csproj.AssemblyReference.cache
+C:\Users\Student\Desktop\InteriewQuestions\InteriewQuestions\obj\Debug\net7.0\InteriewQuestions.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Student\Desktop\InteriewQuestions\InteriewQuestions\obj\Debug\net7.0\InteriewQuestions.AssemblyInfoInputs.cache
+C:\Users\Student\Desktop\InteriewQuestions\InteriewQuestions\obj\Debug\net7.0\InteriewQuestions.AssemblyInfo.cs
+C:\Users\Student\Desktop\InteriewQuestions\InteriewQuestions\obj\Debug\net7.0\InteriewQuestions.csproj.CoreCompileInputs.cache
+C:\Users\Student\Desktop\InteriewQuestions\InteriewQuestions\bin\Debug\net7.0\InteriewQuestions.exe
+C:\Users\Student\Desktop\InteriewQuestions\InteriewQuestions\bin\Debug\net7.0\InteriewQuestions.deps.json
+C:\Users\Student\Desktop\InteriewQuestions\InteriewQuestions\bin\Debug\net7.0\InteriewQuestions.runtimeconfig.json
+C:\Users\Student\Desktop\InteriewQuestions\InteriewQuestions\bin\Debug\net7.0\InteriewQuestions.dll
+C:\Users\Student\Desktop\InteriewQuestions\InteriewQuestions\bin\Debug\net7.0\InteriewQuestions.pdb
+C:\Users\Student\Desktop\InteriewQuestions\InteriewQuestions\obj\Debug\net7.0\InteriewQuestions.dll
+C:\Users\Student\Desktop\InteriewQuestions\InteriewQuestions\obj\Debug\net7.0\refint\InteriewQuestions.dll
+C:\Users\Student\Desktop\InteriewQuestions\InteriewQuestions\obj\Debug\net7.0\InteriewQuestions.pdb
+C:\Users\Student\Desktop\InteriewQuestions\InteriewQuestions\obj\Debug\net7.0\InteriewQuestions.genruntimeconfig.cache
+C:\Users\Student\Desktop\InteriewQuestions\InteriewQuestions\obj\Debug\net7.0\ref\InteriewQuestions.dll
