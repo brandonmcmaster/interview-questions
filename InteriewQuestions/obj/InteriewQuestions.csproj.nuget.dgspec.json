@@ -1,27 +1,26 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Student\\Desktop\\InteriewQuestions\\InteriewQuestions\\InteriewQuestions.csproj": {}
+    "/Users/brandonmcmaster/Desktop/git/interview-questions/InteriewQuestions/InteriewQuestions.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Student\\Desktop\\InteriewQuestions\\InteriewQuestions\\InteriewQuestions.csproj": {
+    "/Users/brandonmcmaster/Desktop/git/interview-questions/InteriewQuestions/InteriewQuestions.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Student\\Desktop\\InteriewQuestions\\InteriewQuestions\\InteriewQuestions.csproj",
+        "projectUniqueName": "/Users/brandonmcmaster/Desktop/git/interview-questions/InteriewQuestions/InteriewQuestions.csproj",
         "projectName": "InteriewQuestions",
-        "projectPath": "C:\\Users\\Student\\Desktop\\InteriewQuestions\\InteriewQuestions\\InteriewQuestions.csproj",
-        "packagesPath": "C:\\Users\\Student\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Student\\Desktop\\InteriewQuestions\\InteriewQuestions\\obj\\",
+        "projectPath": "/Users/brandonmcmaster/Desktop/git/interview-questions/InteriewQuestions/InteriewQuestions.csproj",
+        "packagesPath": "/Users/brandonmcmaster/.nuget/packages/",
+        "outputPath": "/Users/brandonmcmaster/Desktop/git/interview-questions/InteriewQuestions/obj/",
         "projectStyle": "PackageReference",
         "configFilePaths": [
-          "C:\\Users\\Student\\AppData\\Roaming\\NuGet\\NuGet.Config",
-          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+          "/Users/brandonmcmaster/.nuget/NuGet/NuGet.Config"
         ],
         "originalTargetFrameworks": [
           "net7.0"
         ],
         "sources": {
-          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "/usr/local/share/dotnet/library-packs": {},
           "https://api.nuget.org/v3/index.json": {}
         },
         "frameworks": {
@@ -55,7 +54,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.203\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "/usr/local/share/dotnet/sdk/7.0.304/RuntimeIdentifierGraph.json"
         }
       }
     }
