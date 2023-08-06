@@ -141,7 +141,22 @@ namespace InterviewQuestions
                 "The \"=>\" symbol in JavaScript is called an \"arrow function\". It replaces the \"function\" keyword when defining a function.\n\nBonus: Some people might also refer to it as \"fat arrow\", in contrast to a thin arrow \"->\" used in some other programming languages. The terms \"lambda\", \"anonymous function\", or \"closure\" might be used in certain contexts to refer to functions defined with the arrow syntax, but these terms have broader meanings beyond just \"=>\"."},
 
             {"How is the \"event-driven\" style of program execution different from the \"sequential\" style of execution we utilized in simple console programs during the first few weeks of the program?",
-                "Sequential execution runs code line by line from top to bottom. It's straightforward but doesn't handle user interaction or simultaneous tasks well. \n\nEvent-driven execution responds to user actions or system events (like clicks or key presses). It's less predictable because code execution depends on the events and their order. This style is more suited for interactive applications, like websites or desktop applications, where user input needs to be processed at unknown times."}
+                "Sequential execution runs code line by line from top to bottom. It's straightforward but doesn't handle user interaction or simultaneous tasks well. \n\nEvent-driven execution responds to user actions or system events (like clicks or key presses). It's less predictable because code execution depends on the events and their order. This style is more suited for interactive applications, like websites or desktop applications, where user input needs to be processed at unknown times."},
+
+            {"What is mustache notation in Vue.js and how is it different from v-model binding? Where is v-model binding mostly seen in Vue.js?",
+                "The double curly braces aka mustache tags are used to render data properties from a component’s HTML through data binding. V-model binding creates a 2-way binding relationship. Elements update automatically to reflect changes to data properties AND data properties update to reflect changes to elements."},
+
+            { "Why do we use “.prevent” with some vue.js events? Bonus: What event on what element should be “handled” for an input element of type submit?",
+                "We use .prevent because some events trigger a default action in the browser and .prevent allows you to stop that action if you don’t want it to occur. For example, you may need to use the preventDefault() method in your form element because when a user clicks a submit button, the browser attempts to send form data to a remote server."},
+
+            { "How are v-if and v-show alike? How are they different?",
+                "When you wrap an element in v-if, you associate it with a Boolean condition which determines whether the element appears in the DOM.  While v-if conditionally renders an element, v-show conditionally displays an element. The difference is that v-if needs to destroy and recreate elements with every status change while v-show hides an element by toggling its CSS display status."},
+
+            {"What are two ways that vue.js components can pass data from component to component? Which one is intended to be used between parent and child components? Which one can be used between any components in an application?",
+                "You can import a component to be used in another component by: importing the component, declaring the component in the components object, and then use the component in your template or through using props. Props are intended to be used between parent and child components while the first method can be used between any components."},
+
+            { "What is the role of <router-view> in the default vue.js router?",
+                "It’s a functional component that renders the matched component for the given path; meaning that it’ll display the component that corresponds to the URL." }
         };
 
         private Random random = new Random();
